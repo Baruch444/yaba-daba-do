@@ -3,8 +3,14 @@ body,html{
     margin: 0;
     padding: 0;
     height: 100%;
-    background: linear-gradient(45deg, yellow, grey);
+    background: linear-gradient(45deg, yellow, grey, yellow, black);
+}
+@font-face {
+    font-family: "Julee-Regular";
+    src: url(tools/font2/Julee-Regular.ttf);
 }
 h1{
     margin: 0;
+    color: whitesmoke;
+    font-family: "Julee-Regular", cursive;
 }
