@@ -2,7 +2,7 @@
 ## Website for yaba daba
 ---
 
-- HTMK
+- HTML
 - CSS
 ---
 Link: [Link to project](http://)
